@@ -16,7 +16,7 @@ public class main {
         final long TIME = 184000000;
         final String DELIMITER = "|";
         
-        String fileName="C:/Users/redjepovty/Documents/FORTS_Data/ordlogeq02022016.exp";
+        String fileName="C:/Users/.../Documents/.../file.txt";
         BufferedReader br = new BufferedReader(new FileReader(fileName));
         
         List<Order2> sell_order = new ArrayList<Order2>();
